@@ -8,7 +8,7 @@ The input **(Height and Weight)** is given by the user and BMI is then calculate
 
 using the formula - **weight / (height * height)**
 
-Then, the following three are shown according to the input:
+Then, the following three are determined according to the input:
 
 - **BMI > 25** - Overweight
 - **BMI >= 18.5 and BMI <= 25** - Normal Weight
