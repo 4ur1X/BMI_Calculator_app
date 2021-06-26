@@ -1,6 +1,6 @@
 ## BMI Calculator App
 
-Welcome to one of my first apps!
+Welcome to one of my first apps made during my Flutter learning journey!
 
 This is a simple BMI (Body Mass Index) Calculator app made using **Flutter SDK** and **Dart** Programming Language.
 
